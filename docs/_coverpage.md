@@ -1,13 +1,16 @@
-
 ![logo](https://docsify.js.org/_media/icon.svg)
 
-# 豆瓣影音
+# 资料天堂
 
-> 使用Vue全家桶+Node.js搭建的小型全栈项目.
+> 本站纯属学习资料分享，禁止不学习等无关人员入内，爱学习人员的天堂
 
-* 前端框架：vue-cli、vue-router、axios、vuex
-* UI类库：Mint-UI、Vant
-* 后端数据接口：Express、MongoDB
+* IT
+* 天文
+* 地理
+* 历史
+* 人文
+* 金融
+* 体育
 
-[GitHub](https://github.com/Hanxueqing/Douban-Movie.git)
-[Get Started](#quick-start)
+
+[更新情况](update.md)
