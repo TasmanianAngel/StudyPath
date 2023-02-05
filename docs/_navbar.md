@@ -4,6 +4,6 @@
 
   * [📖内容介绍](aboutpage.md)
   * [👨‍💻作者介绍](aboutme.md)
-* 赞助
+* 加入我们
 
-  * [:sunglasses:参与](donation.md)
+  * [😎参与](donation.md)
