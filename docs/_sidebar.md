@@ -1,6 +1,15 @@
 <!-- Docsify/_sidebar.md -->
 
-* [首页](/)
-* [文档](README.md)
-* [数据分析](dataanalysis.md)
-* [AZ-900](/AZ-900)
+# [IT](IT\readme.md)
+
+# [天文](astronomy)
+
+# [地理](geography)
+
+# [历史](history)
+
+# [人文](humanities)
+
+# [体育](sports)
+
+# [金融](finance)
