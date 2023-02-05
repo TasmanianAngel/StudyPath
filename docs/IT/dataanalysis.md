@@ -70,3 +70,31 @@
 6. Udacity Data Analysis Tutorial：https://www.udacity.com/course/data-analysis--ud170
 7. DataCamp Data Analysis Tutorial：https://www.datacamp.com/tracks/data-analysis
 8. Introduction to Data Analysis (MITx)：https://www.edx.org/course/introduction-data-analysis-using-excel-microsoft-dev274x
+
+---
+
+## 视频资料：
+
+### 数据分析整体规划：
+
+[Complete Introduction to Business Data Analysis](https://www.udemy.com/course/the-data-analyst-course-complete-data-analyst-bootcamp/learn/lecture/22864769#overview)
+
+[The Data Analyst Course: Complete Data Analyst Bootcamp 2023](https://www.udemy.com/course/the-data-analyst-course-complete-data-analyst-bootcamp/learn/lecture/22864769#overview)
+
+### SQL：
+
+[MySQL for Data Analytics and Business Intelligence](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/learn/lecture/8344702#overview)
+
+[SQL for Data Analysis: Beginner MySQL Business Intelligence](https://www.udemy.com/course/mysql-for-data-analysis/learn/lecture/15211486#overview)
+
+### Python
+
+[Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5440650#overview)
+
+[Data Analysis with Pandas and Python](https://www.udemy.com/course/data-analysis-with-pandas/learn/lecture/5579042#overview)
+
+### POWER BI&TABLEUA
+
+[Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/learn/lecture/9493118#overview)
+
+[Tableau 2022 A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/course/tableau10/learn/lecture/5636604#overview)
